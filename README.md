@@ -9,20 +9,19 @@ Insights and recommendations are based on the following key areas:</br>
 1. Call Overview: An analysis of quarterly Customer Satisfaction Rating, Call Assessment Rate and Customer Satisfaction Rating.
 2. Agent Performance: An assessment of Average Response Time (ART), Call Duration, Resolution Rate and Customer Satisfaction Rating.
 
-An interactive PowerBI dashboard field can be downloaded from [here](https://github.com/srishupadhyay/PWC-Digital-Accelerator-PowerBI/blob/c4d0d44612b08dc535fdc5d791e6f27a3149f910/PWC%20-%20Data%20%2B%20Dashboard%20File/Call%20Center%20Dashboard.pbix)
+An interactive PowerBI dashboard field can be downloaded [HERE](https://github.com/srishupadhyay/PWC-Digital-Accelerator-PowerBI/blob/c4d0d44612b08dc535fdc5d791e6f27a3149f910/PWC%20-%20Data%20%2B%20Dashboard%20File/Call%20Center%20Dashboard.pbix)
 
 ### Data Structure
 The database structure for this project includes only a single table: call_centre_dataset with a total row count of 5,000.</br>
-https://github.com/srishupadhyay/PWC-Digital-Accelerator-PowerBI/issues/3#issue-2526590310
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/012b6c8b-a2a3-4dbd-8de5-bd0f87fefd52" alt="ERD">
+</p>
+</br>
 
-
-
-
-
-
-
-The dataset can be downloaded from [here](https://github.com/srishupadhyay/PWC-Digital-Accelerator-PowerBI/issues/2#issue-2526578190)
+<p align="center">
+  The dataset can be downloaded from <a href="https://github.com/srishupadhyay/PWC-Digital-Accelerator-PowerBI/issues/2#issue-2526578190">here</a>
+</p>
 
 
 ## 📊 Why PowerBI?
