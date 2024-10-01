@@ -46,13 +46,19 @@ The Customer Satisfaction Rating for the first quarter has declined from an aver
 
 <h4 align="center">Call Overview Dashboard</h4>
 
-![Call Overview 1](https://github.com/user-attachments/assets/7de9313b-8fda-499c-b948-382368003cc3)</br>
-</br>
+<p align="center">
+  <img src="https://github.com/srishupadhyay/Call-Centre-KPI-PowerBI/blob/ce5a7aeedb181dbe4bf99ac22507cec82f8c8e65/PICS/Call%20Over%20view%20Dashboard.png?raw=true" alt="Call Centre KPI Overview Dashboard">
+</p>
+
+
 
 <h4 align="center">Agent Performance Dashboard</h4>
 
+<p align="center">
+  <img src="https://github.com/srishupadhyay/Call-Centre-KPI-PowerBI/blob/ce5a7aeedb181dbe4bf99ac22507cec82f8c8e65/PICS/Agent%20Performance%20Dashboard.png?raw=true" alt="Agent Performance Dashboard">
+</p>
 
-![Agent Overview 2](https://github.com/user-attachments/assets/64a3678f-48be-4196-98b8-fa24e423dca1)
+
 
 
 ## Call Trends
@@ -64,7 +70,7 @@ The Customer Satisfaction Rating for the first quarter has declined from an aver
 Customers are more satisfied with the Morning Calls which doing better at 3.47 compared to the Afternoon Calls at 3.38.</br>
 
 • **Call Assessments:**</br>
-  Q   - 81.08 %</br>
+  Q1 Overall - 81.08 %</br>
   Jan - 82.11 %</br>
   Feb - 80.32 %</br>
   Mar - 80.71 %</br>
